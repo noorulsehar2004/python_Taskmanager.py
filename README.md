@@ -1,0 +1,1 @@
+Task Master is a Python-based desktop task management application built using Tkinter. It supports individual and team logins, allowing users to create, edit, delete, and manage tasks with due dates and priorities. The app includes a reminder system that notifies users before deadlines, making it suitable for basic productivity and task organization.
